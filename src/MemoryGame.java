@@ -1,5 +1,3 @@
-package ca.douglas.csis1275.memory;
-
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

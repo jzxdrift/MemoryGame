@@ -1,5 +1,3 @@
-package ca.douglas.csis1275.memory;
-
 public class Player
 {
 	private String name;
