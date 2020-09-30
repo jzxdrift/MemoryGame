@@ -1,1 +1,1 @@
-This application is a memory game in a console.
+This application is a console memory game.
